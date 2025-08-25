@@ -136,3 +136,6 @@ def simulation(graph=True, save_csv=False):
         bt.to_csv('ibov_x_momentum.csv', index=True)
     
     return bt
+
+
+simulation()
