@@ -1,6 +1,6 @@
 # CSMOM-B3-stocks
 
-##Racional da Estratégia
+Racional da Estratégia
 A estratégia implementada visa a criação de um portfólio de investimento baseado em Cross
 Sectional Momentum, um método que usa um dos fatores de desempenho mais persistentes e
 empiricamente validados nos mercados financeiros globais: o momentum. O ponto de partida do
